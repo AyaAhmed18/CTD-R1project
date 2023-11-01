@@ -1,0 +1,2 @@
+RewriteEngine on
+ErrorDocument 404   http://localhost/cars_r1/404.php
